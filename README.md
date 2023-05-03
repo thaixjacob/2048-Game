@@ -12,9 +12,9 @@ The objective of the game is to slide numbered tiles on a grid to combine them t
 
 Clone the repository and open the index.html file in your browser to start the game.
 
-**git clone https://github.com/your-username/2048-game.git**
+`git clone https://github.com/your-username/2048-game.git`
 
-**cd 2048-game**
+`cd 2048-game`
 
 ## Contributing
 
